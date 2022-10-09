@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[!(https://github-readme-stats.vercel.app/api?username=srijan-katuwal&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
+[![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan-katuwal)](https://github.com/srijan-katuwal/github-readme-stats)
 
 https://github-readme-stats.vercel.app/api?username=srijan-katuwal&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
